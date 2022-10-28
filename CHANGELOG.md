@@ -1,0 +1,1 @@
+10/27/22 - added solution to find smallest number whose digits sum up to a target number.
